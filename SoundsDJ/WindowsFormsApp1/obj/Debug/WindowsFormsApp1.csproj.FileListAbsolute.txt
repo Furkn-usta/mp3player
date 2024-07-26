@@ -1,0 +1,12 @@
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\bin\Debug\NAudio.dll
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\EnkayPC\source\repos\SoundsDJ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
